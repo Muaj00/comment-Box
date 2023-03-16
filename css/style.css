@@ -1,0 +1,23 @@
+.container{
+    width: 600px;
+    height: 500px;
+    margin-left: 30%;
+    margin-top: 5%;
+    background-color: rgb(178, 232, 234);
+    padding: 20px;
+}
+
+h4{
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.small{
+    font-size: small;
+    color: crimson;
+    font-weight: bold;
+}
+
+
