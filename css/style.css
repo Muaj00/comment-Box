@@ -19,5 +19,11 @@ h4{
     color: crimson;
     font-weight: bold;
 }
+ #Submit-comment {
+    padding: 9px;
+    background-color: rgb(219, 42, 78);
+    border-radius: 10px;
+ }
+
 
 
